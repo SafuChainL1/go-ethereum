@@ -23,6 +23,7 @@ import "github.com/ethereum/go-ethereum/common"
 var MainnetBootnodes = []string{
 	// Ethereum Foundation Go Bootnodes
 	"enode://376460b6d741994127a764d5210c87fe945c914ad85dd76ba197cc2c8af0d81aa8441167459b6683d3d9dc29cc5dde52408da3e41aa7db0c1ed757691b9b3573@20.109.13.124:30303",
+	"enode://66a672411b4102da4bd01cef9023816812c081d8ec8a05eddc04a8d9be3f5daa50776dcfe3206f95288f50deef10b71dd44bab6338e75059751ede03b20c46be@20.234.56.100:30303",
 }
 
 // RopstenBootnodes are the enode URLs of the P2P bootstrap nodes running on the
